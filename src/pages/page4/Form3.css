@@ -1,0 +1,153 @@
+.pole1{
+        position: absolute;
+        width: 260px;
+        height: 31.75px;
+        left: 1111px;
+        top: 195.32px;
+        border: 1px solid grey;
+        border-radius: 0.8rem;
+        
+    }
+.pole2{
+        position: absolute;
+        width: 260px;
+        height: 31.75px;
+        left: 1111px;
+        top: 248.24px;
+        border-radius: 0.8rem;
+        border: 1px solid grey;
+    }
+
+.form-img1{
+    position: absolute;
+    width: 300px;
+    height: 262px;
+    left: 1090px;
+    top: 130px;
+    border-radius: 0.8rem;
+    border-color: black;
+    box-shadow: 0px 3px 6px rgba(0, 0, 0, 0.1);
+}
+
+.napis1{
+    position: absolute;
+    width: 236px;
+    height: 14.11px;
+    left: 1119px;
+    top: 146.81px;
+    font-style: normal;
+    font-weight: bold;
+    font-size: 16px;
+    line-height: 20px;
+    color: #4F4F4F;
+}
+
+.przycisk1 {
+    position: absolute;
+    width: 23px;
+    height: 23px;
+    left: 1186px;
+    top: 293px;
+
+}
+.napis3{
+    position: absolute;
+    width: 124px;
+    height: 25px;
+    left: 1216px;
+    top: 294px;
+    font-weight: 500;
+    font-size: 12px;
+    line-height: 20px;
+    color: #4F4F4F;
+}
+.form-input-btn4 {
+    position: absolute;
+    left: 1247px;
+    right: 69px;
+    top: 343px;
+    width: 124px;
+    height: 31.75px; 
+    bottom: 649px;
+    border-radius: 0.8rem;
+    background: linear-gradient(
+      90deg,
+      rgb(9, 137, 65) 0%,
+      rgba(9, 137, 65) 100%
+    );
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  
+.form-input-btn5 {
+    position: absolute;
+    width: 124px;
+    height: 31.75px;
+    left: 1111px;
+    top: 343px;
+    border-radius: 0.8rem;
+    background: linear-gradient(
+      90deg,
+      rgb(0, 0, 0) 0%,
+      rgb(0, 0, 0) 100%
+    );
+    outline: none;
+    border: none;
+    color: #fff;
+    font-size: 1rem;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25), 0px 4px 4px rgba(0, 0, 0, 0.25);
+  }
+  .klasa1{
+    position: absolute;
+    width: 236px;
+    height: 12.35px;
+    left: 1123px;
+    top: 182.97px;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 14px;
+    color: #4F4F4F;
+  }
+  .klasa2{
+    position: absolute;
+    width: 100%;
+    height: 12.35px;
+    left: 1123px;
+    top: 235.9px;
+    font-weight: 500;
+    font-size: 10px;
+    line-height: 14px;
+    color: #4F4F4F;
+  }
+.pole2_1{
+    position: absolute;
+    width: 260px;
+    height: 44.78px;
+    left: 1122px;
+    top: 203px;      
+    font-weight: 500;
+    font-size: 14px;
+    line-height: 20px;
+    color: #4F4F4F;
+}
+.pole2_2{
+    position: absolute;
+    width: 100%;
+    height: 44.78px;
+    left: 1122px;
+    top: 255px;     
+    font-size: 14px;
+    line-height: 20px;
+    color: #4F4F4F;
+}
+
+.mapka{
+  min-width: 100%;
+  min-height: 100%;
+  top: 65px;
+  left: 0px;
+  background-position: center;
+}
